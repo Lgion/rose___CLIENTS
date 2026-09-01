@@ -21,7 +21,7 @@ export default function StorySection() {
               aspectRatio: '4/5'
             }}>
               <img
-                src="/sacs/sac-emeraude-wax-geometric.jpg"
+                src="./sacs/sac-emeraude-wax-geometric.jpg"
                 alt="Savoir faire ROSE"
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               />
@@ -40,7 +40,7 @@ export default function StorySection() {
               border: '4px solid #FFFFFF'
             }}>
               <img
-                src="/sacs/sac-bordeaux-dore-geometrique.jpg"
+                src="./sacs/sac-bordeaux-dore-geometrique.jpg"
                 alt="Finition Cuir et Or"
                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
               />

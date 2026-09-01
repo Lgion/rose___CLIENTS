@@ -42,7 +42,7 @@ export default function Hero({ onExploreClick, onLookbookClick }) {
           filter: 'contrast(1.1) brightness(0.85)'
         }}
       >
-        <source src="/sacs/video-presentation-collection.mp4" type="video/mp4" />
+        <source src="./sacs/video-presentation-collection.mp4" type="video/mp4" />
       </video>
 
       {/* Luxury Gradient Dark Overlay */}
